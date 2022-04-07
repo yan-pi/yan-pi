@@ -1,8 +1,8 @@
 ## Hello Github 
 <div align="center">
   <a href="https://github.com/Yan-pi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yan-pi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-pi&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Yan-pi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-pi&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
  
@@ -31,7 +31,5 @@
   <a href="https://www.linkedin.com/in/yan-fernandes-55a81a201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   <a href="https://www.behance.net/atlasyan" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
