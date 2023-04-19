@@ -19,7 +19,7 @@
   <img align="center" alt="yan-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/ea/97/dd/ea97dd3896500ad29dcad659abdb8a2e.jpg">
+  <img align="right" alt="yan-pi" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/ea/97/dd/ea97dd3896500ad29dcad659abdb8a2e.jpg">
 </div>
   
   ##
