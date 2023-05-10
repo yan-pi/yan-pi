@@ -10,9 +10,11 @@
   
   <img align="center" alt="yan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="yan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="yan-JS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="yan-JS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="yan-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-<img align="center" alt="yan-react" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="yan-react" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="yan-node" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+
 
  
   
@@ -21,7 +23,7 @@
   <img align="center" alt="yan-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 
   
-  <img align="right" alt="yan-pi" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/ea/97/dd/ea97dd3896500ad29dcad659abdb8a2e.jpg">
+  <img align="right" alt="yan-pi" height="150" style="border-radius:150px;" src="https://i.pinimg.com/originals/ea/97/dd/ea97dd3896500ad29dcad659abdb8a2e.jpg">
 </div>
   
   ##
@@ -30,8 +32,7 @@
  
   <a href="https://www.instagram.com/yanfsb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:yanfernandes404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yan-fernandes-55a81a201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <a href="https://www.behance.net/atlasyan" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/yan-fernandes-55a81a201/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a> 
+  <a href="https://www.behance.net/atlasyan" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original-wordmark.svg" target="_blank"></a> 
  
 </div>
