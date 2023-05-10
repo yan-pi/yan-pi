@@ -32,7 +32,7 @@
  
   <a  href="https://www.instagram.com/yanfsb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a  href = "mailto:yanfernandes404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a  height="30" width="40"href="https://www.linkedin.com/in/yan-fernandes-55a81a201/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="30" width="40" target="_blank"></a> 
-  <a height="30" width="40" href="https://www.behance.net/atlasyan" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original-wordmark.svg" height="30" width="40" target="_blank"></a> 
+  <a  href="https://www.linkedin.com/in/yan-fernandes-55a81a201/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="300" width="400" target="_blank"></a> 
+  <a  href="https://www.behance.net/atlasyan" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original-wordmark.svg" height="300" width="400" target="_blank"></a> 
  
 </div>
