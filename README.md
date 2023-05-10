@@ -26,7 +26,7 @@
   <img align="right" alt="yan-pi" height="150" style="border-radius:150px;" src="https://i.pinimg.com/originals/ea/97/dd/ea97dd3896500ad29dcad659abdb8a2e.jpg">
 </div>
  
- <div>
+ <div style="display: inline_block"><br>
   <a  href="https://www.instagram.com/yanfsb/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
   <a  href = "mailto:yanfernandes404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -36,4 +36,4 @@
 
   <a  href="https://www.behance.net/atlasyan" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" 
  height="80" width="80" target="_blank"></a> 
-  </div>
+ </div>
