@@ -34,5 +34,6 @@
 
   <a  href="https://www.linkedin.com/in/yan-fernandes-55a81a201/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="70" width="70" target="_blank"></a> 
 
-  <a  href="https://www.behance.net/atlasyan" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original-wordmark.svg" height="80" width="80" target="_blank"></a> 
+  <a  href="https://www.behance.net/atlasyan" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" 
+ height="80" width="80" target="_blank"></a> 
   </div>
