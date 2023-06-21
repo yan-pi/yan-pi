@@ -33,6 +33,6 @@
   <a  href="https://www.linkedin.com/in/yan-fernandes-55a81a201/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" width="50" target="_blank"</a> 
   <a  href="https://www.behance.net/atlasyan" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="50" width="50" target="_blank"></a> 
     
-   ![Snake animation](https://github.com/Yan-pi/Yan-pi/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Yan-pi/Yan-pi/blob/output/github-contribution-grid-snake.svg
 
  </div>
