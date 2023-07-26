@@ -18,7 +18,6 @@
   <a  href="https://www.instagram.com/yanfsb/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a  href = "mailto:yanfernandes404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <br>
-  <a  href="https://www.linkedin.com/in/yan-fernandes-55a81a201/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" width="50" target="_blank"</a> 
-  <a  href="https://www.behance.net/atlasyan" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="50" width="50" target="_blank"></a> 
+  <a  href="https://www.linkedin.com/in/yan-fernandes-55a81a201/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50" width="50" target="_blank"</a> 
 
  </div>
