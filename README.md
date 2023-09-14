@@ -1,16 +1,9 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <div align="left" gap="20px">
   <a href="https://github.com/Yan-pi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Yan-pi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-pi&layout=compact&langs_count=7&theme=dark"/>
 </div>
-    
- <div>
-   <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="yan-fernandes-55a81a201" data-version="v1">
-     <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/yan-fernandes-55a81a201?trk=profile-badge">Yan Fernandes</a>
-   </div>           
- </div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="yan-type" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
