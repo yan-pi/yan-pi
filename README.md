@@ -11,7 +11,9 @@
   <img align="center" alt="yan-vue" heigh="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> 
   <img align="left" alt="yan-pi" height="100" style="border-radius:150px;" src="https://i.pinimg.com/originals/ea/97/dd/ea97dd3896500ad29dcad659abdb8a2e.jpg">
 </div>
- 
+ <div>
+   <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yan-fernandes-55a81a201" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/yan-fernandes-55a81a201?trk=profile-badge">Yan Fernandes</a></div>
+ </div>
 <div style="display: inline_block"><br>
  <a style="border-radius:10px;" href="https://www.linkedin.com/in/yan-fernandes-55a81a201/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a> 
   <a style="border-radius:10px;" href = "mailto:yanfernandes404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
