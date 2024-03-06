@@ -1,16 +1,6 @@
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 29 February 2024 - To: 04 March 2024
-
-Total Time: 26 mins
-
-Java         21 mins         ████████████████████▒░░░░   81.28 %
-TypeScript   5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
-Go           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-```
-
 <!--END_SECTION:waka-->
 
 
