@@ -1,6 +1,21 @@
 
 <!--START_SECTION:waka-->
 
+```rust
+From: 29 February 2024 - To: 07 March 2024
+
+Total Time: 5 hrs 5 mins
+
+Go           1 hr 12 mins    ██████░░░░░░░░░░░░░░░░░░░   23.63 %
+TypeScript   1 hr 2 mins     █████░░░░░░░░░░░░░░░░░░░░   20.46 %
+Markdown     34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Java         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Git Config   19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+INI          16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Bash         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Docker       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+```
+
 <!--END_SECTION:waka-->
 
 
