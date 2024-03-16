@@ -2,18 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 February 2024 - To: 14 March 2024
 
-Total Time: 18 hrs 17 mins
-
-Go           6 hrs 49 mins   █████████▒░░░░░░░░░░░░░░░   37.07 %
-TypeScript   5 hrs 2 mins    ███████░░░░░░░░░░░░░░░░░░   27.37 %
-Vue.js       1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Markdown     1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-Bash         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Git Config   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Java         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-INI          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
