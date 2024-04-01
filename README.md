@@ -2,18 +2,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 February 2024 - To: 30 March 2024
+From: 29 February 2024 - To: 31 March 2024
 
-Total Time: 42 hrs 10 mins
+Total Time: 42 hrs 31 mins
 
-TypeScript    16 hrs 15 mins  █████████▓░░░░░░░░░░░░░░░   38.20 %
-Go            10 hrs 30 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.69 %
-Markdown      5 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
-Bash          2 hrs 55 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Vue.js        1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Git Config    41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Java          27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Other         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+TypeScript    16 hrs 15 mins  █████████▒░░░░░░░░░░░░░░░   37.88 %
+Go            10 hrs 30 mins  ██████░░░░░░░░░░░░░░░░░░░   24.48 %
+Markdown      5 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
+Bash          2 hrs 55 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Vue.js        1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Git Config    41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Java          27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Other         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
