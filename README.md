@@ -19,6 +19,7 @@ Git Config    45 mins         ▒░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
 [my-personal-online-cv :D](https://yan-pi.vercel.app/)
 
 <div style="display: inline_block"><br>
