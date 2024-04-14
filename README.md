@@ -8,20 +8,20 @@ My name is **Yan Fernandes**. I'm a **Full Stack Developer** with a passion for 
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 February 2024 - To: 12 April 2024
+From: 29 February 2024 - To: 14 April 2024
 
-Total Time: 67 hrs 51 mins
+Total Time: 69 hrs 46 mins
 
-TypeScript    27 hrs 6 mins   ██████████░░░░░░░░░░░░░░░   39.52 %
-Go            10 hrs 30 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
-Markdown      10 hrs 22 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
-JSON          6 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Bash          3 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-JavaScript    2 hrs 49 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Prisma        1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-YAML          1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Vue.js        1 hr 20 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Git Config    48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+TypeScript    27 hrs 6 mins   █████████▓░░░░░░░░░░░░░░░   38.45 %
+Markdown      10 hrs 32 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
+Go            10 hrs 30 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+JSON          6 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+Bash          3 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+JavaScript    2 hrs 49 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+C             1 hr 47 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Prisma        1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+YAML          1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Vue.js        1 hr 20 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
