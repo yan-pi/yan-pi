@@ -8,7 +8,20 @@ My name is **Yan Fernandes**. I'm a **Full Stack Developer** with a passion for 
 <!--START_SECTION:waka-->
 
 ```rust
+From: 29 February 2024 - To: 18 April 2024
 
+Total Time: 80 hrs
+
+TypeScript    28 hrs 58 mins  █████████░░░░░░░░░░░░░░░░   35.89 %
+Markdown      11 hrs 47 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+Go            10 hrs 30 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
+JSON          8 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+JavaScript    6 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+Bash          3 hrs 27 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+C             2 hrs 51 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Prisma        1 hr 39 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+YAML          1 hr 37 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Vue.js        1 hr 20 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
