@@ -3,7 +3,9 @@
 ### About me
 
 My name is **Yan Fernandes**. I'm a **Full Stack Developer** with a passion for studying various languages and technologies. 
+</br>
 I'm particularly enthusiastic about BTC and WEB3. You can see a more detailed overview of my career path [here](https://yan-pi.vercel.app/).
+</br>
 For updates on what I'm currently working on, check out my [Twitter](https://twitter.com/yamigake).
 
 ### My WakaTime Stats:
