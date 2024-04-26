@@ -12,20 +12,20 @@ For updates on what I'm currently working on, check out my [Twitter](https://twi
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 February 2024 - To: 24 April 2024
+From: 29 February 2024 - To: 25 April 2024
 
-Total Time: 91 hrs 39 mins
+Total Time: 93 hrs 30 mins
 
-TypeScript    37 hrs 11 mins  ██████████░░░░░░░░░░░░░░░   40.18 %
-Markdown      12 hrs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
-Go            10 hrs 30 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-JSON          9 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
-JavaScript    6 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-Bash          4 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-C             2 hrs 51 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Prisma        2 hrs           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-YAML          2 hrs           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Vue.js        1 hr 20 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+TypeScript    37 hrs 57 mins  ██████████░░░░░░░░░░░░░░░   40.18 %
+Markdown      12 hrs 32 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+Go            10 hrs 30 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+JSON          9 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+JavaScript    6 hrs 54 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Bash          5 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+C             2 hrs 51 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+YAML          2 hrs           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Prisma        2 hrs           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Vue.js        1 hr 20 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
