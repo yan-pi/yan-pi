@@ -12,13 +12,13 @@ For updates on what I'm currently working on, check out my [Twitter](https://twi
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 February 2024 - To: 04 May 2024
+From: 29 February 2024 - To: 05 May 2024
 
-Total Time: 111 hrs 51 mins
+Total Time: 111 hrs 53 mins
 
-TypeScript    48 hrs 55 mins  ██████████▓░░░░░░░░░░░░░░   43.26 %
+TypeScript    48 hrs 56 mins  ██████████▓░░░░░░░░░░░░░░   43.27 %
 Markdown      14 hrs 33 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
-Go            13 hrs 23 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+Go            13 hrs 23 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
 JSON          10 hrs 15 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
 JavaScript    7 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
 Bash          5 hrs 49 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
