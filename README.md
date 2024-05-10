@@ -2,7 +2,7 @@
 
 ### About me
 
-My name is **Yan Fernandes**. I'm a **Full Stack Developer** with a passion for studying various languages and technologies. 
+I'm a **Full Stack Developer** with a passion for studying various languages and technologies. 
 </br>
 I'm particularly enthusiastic about BTC and WEB3. You can see a more detailed overview of my career path [here](https://yan-pi.vercel.app/).
 </br>
