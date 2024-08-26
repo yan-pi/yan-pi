@@ -12,7 +12,7 @@ For updates on what I'm currently working on, check out my [Twitter](https://twi
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 February 2024 - To: 24 August 2024
+From: 29 February 2024 - To: 25 August 2024
 
 Total Time: 363 hrs 31 mins
 
