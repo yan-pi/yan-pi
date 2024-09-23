@@ -12,7 +12,7 @@ For updates on what I'm currently working on, check out my [Twitter](https://twi
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 29 February 2024 - To: 21 September 2024
+From: 29 February 2024 - To: 22 September 2024
 
 Total Time: 414 hrs 28 mins
 
