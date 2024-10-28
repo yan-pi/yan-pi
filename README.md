@@ -12,16 +12,16 @@ For updates on what I'm currently working on, check out my [Twitter](https://twi
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 29 February 2024 - To: 26 October 2024
+From: 29 February 2024 - To: 27 October 2024
 
-Total Time: 433 hrs 22 mins
+Total Time: 433 hrs 33 mins
 
-TypeScript                 243 hrs 23 mins █████████████▓░░░░░░░░░░░   54.87 %
+TypeScript                 243 hrs 23 mins █████████████▓░░░░░░░░░░░   54.85 %
 Markdown                   29 hrs 36 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 JavaScript                 27 hrs 7 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+MDX                        17 hrs 19 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
 Python                     17 hrs 18 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-MDX                        17 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Go                         14 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Go                         14 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 Bash                       13 hrs 11 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 Other                      10 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
