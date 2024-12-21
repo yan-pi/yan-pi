@@ -13,18 +13,18 @@ For updates on what I'm currently working on, check out my [Twitter](https://twi
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 29 February 2024 - To: 19 December 2024
+From: 29 February 2024 - To: 20 December 2024
 
-Total Time: 572 hrs 41 mins
+Total Time: 578 hrs 24 mins
 
-TypeScript                 345 hrs 7 mins  ██████████████▓░░░░░░░░░░   58.80 %
-Markdown                   37 hrs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-JavaScript                 29 hrs 2 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Bash                       22 hrs 3 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Python                     17 hrs 33 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-MDX                        17 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Go                         14 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Other                      14 hrs 15 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+TypeScript                 349 hrs 25 mins ██████████████▓░░░░░░░░░░   58.96 %
+Markdown                   37 hrs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+JavaScript                 29 hrs 2 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Bash                       22 hrs 4 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Python                     17 hrs 58 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+MDX                        17 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Go                         14 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Other                      14 hrs 17 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
