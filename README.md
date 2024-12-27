@@ -12,7 +12,7 @@ For updates on what I'm currently working on, check out my [Twitter](https://twi
 ### My WakaTime Stats:
 <!--START_SECTION:waka-->
 
-```zig
+```scala
 From: 29 February 2024 - To: 27 December 2024
 
 Total Time: 1,086 hrs 7 mins
