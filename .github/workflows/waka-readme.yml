@@ -24,7 +24,7 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
-          CODE_LANG: zig # optional
+          CODE_LANG: scala # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
