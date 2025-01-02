@@ -13,7 +13,7 @@ For updates on what I'm currently working on, check out my [Twitter](https://twi
 <!--START_SECTION:waka-->
 
 ```scala
-From: 29 February 2024 - To: 31 December 2024
+From: 29 February 2024 - To: 01 January 2025
 
 Total Time: 1,102 hrs 41 mins
 
