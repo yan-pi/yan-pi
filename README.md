@@ -1,4 +1,4 @@
-# AHOY!
+# AHOY! :D
 
 ### About me
 
