@@ -15,7 +15,7 @@ For updates on what I'm currently working on, check out my [Twitter](https://twi
 <!--START_SECTION:waka-->
 
 ```Haskell
-From: 29 February 2024 - To: 31 August 2025
+From: 29 February 2024 - To: 01 September 2025
 
 Total Time: 2,473 hrs 17 mins
 
