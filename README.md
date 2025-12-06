@@ -15,14 +15,14 @@ For updates on what I'm currently working on, check out my [Twitter](https://twi
 <!--START_SECTION:waka-->
 
 ```Haskell
-From: 29 February 2024 - To: 04 December 2025
+From: 29 February 2024 - To: 05 December 2025
 
-Total Time: 3,025 hrs 5 mins
+Total Time: 3,031 hrs 27 mins
 
-TypeScript                 1,641 hrs 58 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.26 %
-Markdown                   359 hrs 41 mins ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.67 %
-Bash                       158 hrs 52 mins ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.15 %
-JavaScript                 114 hrs 51 mins ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.73 %
+TypeScript                 1,642 hrs 11 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.15 %
+Markdown                   363 hrs 33 mins ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.77 %
+Bash                       158 hrs 54 mins ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.14 %
+JavaScript                 114 hrs 51 mins ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.72 %
 Lua                        80 hrs 13 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.60 %
 Other                      58 hrs 6 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.88 %
 ```
