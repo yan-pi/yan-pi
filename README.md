@@ -3,7 +3,7 @@
 
 
 
-I'm a **Full Stack Developer** passionate about studying various languages and technologies. 
+I'm a **Builder** passionate about studying various languages and technologies. 
 </br>
 
 I'm particularly enthusiastic about BTC and WEB3. You can see a more detailed overview of my career path [here](https://indianboy.sh/).
