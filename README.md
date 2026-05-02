@@ -3,10 +3,10 @@
 
 
 
-I'm a **Builder** passionate about studying various languages and technologies. 
+I'm a **Builder** passionate about studying various languages and technologies, but focussed on BTC. 
 </br>
 
-I'm particularly enthusiastic about BTC. You can see a more detailed overview of my career path [here](https://indianboy.sh/).
+Fellow from [Vinteum](vinteum.org). You can see a more detailed overview of my career path [here](https://indianboy.sh/).
 </br>
 
 For updates on what I'm currently working on, check out my [Twitter](https://twitter.com/yamigake).
